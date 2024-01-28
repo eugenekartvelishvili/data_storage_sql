@@ -7,4 +7,4 @@
 * Приложен код дбмл для диаграммы
 * Приложена пдф самой диаграммы
 
--- [Ссылка на домашнее задание]https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql)
+-- [Ссылка на домашнее задание](https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql)
