@@ -1,4 +1,4 @@
-# Домашнее задание по хранилищам данных
+# Домашнее задание по хранилищам данных номер 1
 ## Работу выполнил: Картвелишвили Евгений Эрнестович
 
 * Приложен SQL файл, где находится скрипт к дз.
@@ -7,4 +7,17 @@
 * Приложен код дбмл для диаграммы
 * Приложена пдф самой диаграммы
 
--- [Ссылка на домашнее задание](https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql)
+-- [Ссылка на домашнее задание номер 1](https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql)
+
+
+
+# Домашнее задание по хранилищам данных номер 2
+## Работу выполнил: Картвелишвили Евгений Эрнестович
+
+
+* Приложен SQL файл, где находится скрипт с запросами к дз номер 2.
+* Приложена папка со скринами результатов запросов SQL по порядку
+* Приложена папка с 2 скринами о том, что данные были загружены в таблицы 
+
+
+-- [Ссылка на домашнее задание номер 2]([https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql](https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql2)https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql2)
