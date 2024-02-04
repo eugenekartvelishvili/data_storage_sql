@@ -20,4 +20,4 @@
 * Приложена папка с 2 скринами о том, что данные были загружены в таблицы 
 
 
--- [Ссылка на домашнее задание номер 2]([https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql](https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql2)https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql2)
+-- [Ссылка на домашнее задание номер 1](https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql2)
