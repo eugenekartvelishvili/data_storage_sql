@@ -22,8 +22,6 @@
 
 -- [Ссылка на домашнее задание номер 2](https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql2)
 
-https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql3
-
 
 # Домашнее задание по хранилищам данных номер 3
 ## Работу выполнил: Картвелишвили Евгений Эрнестович
