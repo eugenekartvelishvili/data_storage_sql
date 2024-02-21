@@ -21,3 +21,16 @@
 
 
 -- [Ссылка на домашнее задание номер 2](https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql2)
+
+https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql3
+
+
+# Домашнее задание по хранилищам данных номер 3
+## Работу выполнил: Картвелишвили Евгений Эрнестович
+
+
+* Приложен SQL файл, где находится скрипт с запросами к дз номер 3.
+* Приложена папка со скринами результатов запросов SQL по порядку
+* Данные были те же, что и из прошого задания, они были уже загружены в прошлом дз
+
+-- [Ссылка на домашнее задание номер 3](https://github.com/eugenekartvelishvili/data_storage_sql/tree/main/hw_sql3)
